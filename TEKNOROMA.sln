@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEKNOROMA.BLL", "TEKNOROMA.BLL\TEKNOROMA.BLL.csproj", "{9AD4BED2-F32A-460C-A759-52945B0EB6B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEKNOROMA.DAL", "TEKNOROMA.DAL\TEKNOROMA.DAL.csproj", "{365D9356-B841-44DB-B90B-1D0F836DBD08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEKNOROMA.MODEL", "TEKNOROMA.MODEL\TEKNOROMA.MODEL.csproj", "{47FB7136-45B4-445B-A413-C7AABDA909D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEKNOROMA.API", "TEKNOROMA.API\TEKNOROMA.API.csproj", "{93E18B69-A84D-46ED-BF29-D8F98EBEE436}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{60FA84CE-AA6F-4DC6-940B-7EA1D758BF47}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD4BED2-F32A-460C-A759-52945B0EB6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD4BED2-F32A-460C-A759-52945B0EB6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD4BED2-F32A-460C-A759-52945B0EB6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD4BED2-F32A-460C-A759-52945B0EB6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365D9356-B841-44DB-B90B-1D0F836DBD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365D9356-B841-44DB-B90B-1D0F836DBD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365D9356-B841-44DB-B90B-1D0F836DBD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365D9356-B841-44DB-B90B-1D0F836DBD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FB7136-45B4-445B-A413-C7AABDA909D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FB7136-45B4-445B-A413-C7AABDA909D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FB7136-45B4-445B-A413-C7AABDA909D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FB7136-45B4-445B-A413-C7AABDA909D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E18B69-A84D-46ED-BF29-D8F98EBEE436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E18B69-A84D-46ED-BF29-D8F98EBEE436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E18B69-A84D-46ED-BF29-D8F98EBEE436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E18B69-A84D-46ED-BF29-D8F98EBEE436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A986968F-8905-4BA7-A9E9-15D173707BE0}
+	EndGlobalSection
+EndGlobal
